@@ -1,16 +1,23 @@
-## Hi there 👋
+# Sara Faiz
+### MIS Student | Aspiring Data Analyst | Founder of Sara Tech
 
-<!--
-**sarafaiz2026/sarafaiz2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Final-year MIS student — Sudan University of Science and Technology, 2026
+- I turn data into insights: analysis, dashboards and data governance
+- Passionate about AI tools and digital innovation
+- Founder of Sara Tech — simplifying tech for Arabic speakers
 
-Here are some ideas to get you started:
+## Tools
+Python - SQL - Power BI - Excel - Google Data Analytics Certificate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Coming soon
+
+## Connect
+LinkedIn:
+https://www.linkedin.com/in/sara-faiz-tech
+
+Sara Tech:
+https://www.facebook.com/share/192UaRZJqy/
+
+Email:
+sara.faiz2026@gmail.com
