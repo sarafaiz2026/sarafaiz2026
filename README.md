@@ -1,23 +1,17 @@
-# Sara Faiz
-### MIS Student | Aspiring Data Analyst | Founder of Sara Tech
+# Data Analysis Portfolio — Sara Faiz
 
-- Final-year MIS student — Sudan University of Science and Technology, 2026
-- I turn data into insights: analysis, dashboards and data governance
-- Passionate about AI tools and digital innovation
-- Founder of Sara Tech — simplifying tech for Arabic speakers
-
-## Tools
-Python - SQL - Power BI - Excel - Google Data Analytics Certificate
+A growing collection of my data analysis projects using Python, Pandas, Matplotlib, R, and Power BI.
 
 ## Projects
-Coming soon
 
-## Connect
-LinkedIn:
-https://www.linkedin.com/in/sara-faiz-tech
+| # | Project | Description | Tech Stack |
+|---|---|---|---|
+| 1 | Egypt Job Market Analysis | Analyzing 500 job postings: in-demand titles, skills, salaries by experience, and city distribution | Python, Pandas, Matplotlib |
+| 2 | Sudanese Displaced Needs Assessment | Google Data Analytics Capstone Project evaluating displacement needs and spatial data | R, SQL, Tableau |
 
-Sara Tech:
-https://www.facebook.com/share/192UaRZJqy/
+## About Me
 
-Email:
-sara.faiz2026@gmail.com
+* Graduate in Management Information Systems — Sudan University of Science and Technology
+* Data Analyst | Founder of Sara Tech
+* 📧 sara.faiz2026@gmail.com
+* 🔗 [LinkedIn Profile](https://www.linkedin.com/in/sara-faiz-tech)
